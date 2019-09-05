@@ -1,0 +1,39 @@
+.bg-img {
+  background: url("./img/earth.jpg");
+  width: 650px;
+  height: 350px;
+  margin: 150px auto;
+  padding: 25px 45px;
+  border-radius: 20px;
+}
+
+.puce-container {
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+
+.puce-img {
+  width: 113%;
+  padding: -40px;
+  height: 128%;
+  margin-top: -15%;
+  margin-left: -7%;
+}
+
+.container-title {
+  margin-top: 20px;
+  background-color: rgba(226, 216, 106, 0.2);
+  color: rgba(226, 216, 106, 1);
+  display: inline-block;
+  padding: 0 10px;
+}
+.containt {
+  width: 54%;
+  height: 35%;
+}
+.master-img {
+  width: 15%;
+  height: 40%;
+  margin-top: -40px;
+}
